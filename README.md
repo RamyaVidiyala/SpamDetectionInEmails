@@ -15,5 +15,5 @@ Results:
 Since the percentage of spam in data is often low, measured the model’s performance by F1score.
 * Precision: 99.21
 * Recall: 91.24
-F* 1-score: 95.06
+* F1-score: 95.06
 
